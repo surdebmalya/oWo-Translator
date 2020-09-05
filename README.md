@@ -11,7 +11,7 @@ pip install git+https://github.com/surdebmalya/oWo-Translator
 ```
 or
 ```python
->>> from oWo-Translator import owo_convertor
+>>> from main import owo_convertor
 >>> owo_convertor('Nice Man!')
 >>> Nyice Man! 🙂
 ```
