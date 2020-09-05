@@ -10,7 +10,7 @@ pip install git+https://github.com/surdebmalya/oWo-Translator
 >>> Your Translation :  Coow Boy! 😉
 ```
 or
-```
+```python
 >>> from oWo-Translator import owo_convertor
 >>> owo_convertor('Nice Man!')
 >>> Nyice Man! 🙂
