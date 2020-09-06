@@ -19,5 +19,9 @@ or
 - Translator in python. Use the app for free [here.](https://translator.theroyakash.repl.co/)
 - API coming soon for you to use directly with your app.
 
+## Contributors
+- [Debmalya Sur](https://github.com/surdebmalya)
+- [theroyakash (The Roy Akash)](https://github.com/theroyakash)
+
 ## Thanks
 Special thanks to *Zenrac*. I came accross about this translator from [here](https://github.com/Zenrac/TextToOwO)
